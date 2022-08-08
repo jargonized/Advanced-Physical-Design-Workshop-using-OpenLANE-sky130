@@ -24,34 +24,55 @@ Workshop sponsored by: efabless
 
 | ![files](docs/11.png) | 
 |:--:| 
-| Files used throughout the course|
+|Viewing the files present in various directories of the openlane and pdk folder|
 
 | ![files](docs/12.png) | 
 |:--:| 
-| Files used throughout the course|
+| Invoking Openlane in Interactive Mode|
 
 | ![files](docs/13.png) | 
 |:--:| 
-| Files used throughout the course|
+|Setting up the environment and initiating synthesis|
 
 | ![files](docs/14.png) | 
 |:--:| 
-| Files used throughout the course|
+|Successful Synthesis|
 
 | ![files](docs/15.png) | 
 |:--:| 
-| Files used throughout the course|
+|Viewing chip area|
 
 | ![files](docs/16.png) | 
 |:--:| 
-| Files used throughout the course|
+|Viewing cell details and calculating flop ratio (0.095 for the given design)|
 
 | ![files](docs/17.png) | 
 |:--:| 
-| Files used throughout the course|
+|Viewing cell details and calculating flop ratio 'after optimisation' (0.108 for the given design)|
 
 # 3. Summary
 
+The outcomes of this workshop are as follows:
+ - How to talk to computers
+ - SoC design and OpenLANE
+ - Starting RISC-V SoC Reference design
+ - Get familiar to open-source EDA tools
+ - Chip Floor planning considerations
+ - Library Binding and Placement
+ - Cell design and characterization flows
+ - General timing characterization parameters
+ - Labs for CMOS inverter ngspice simulations
+ - Inception of Layout – CMOS fabrication process
+ - Sky130 Tech File Labs
+ - Timing modelling using delay tables
+ - Timing analysis with ideal clocks using openSTA
+ - Clock tree synthesis TritonCTS and signal integrity
+ - Timing analysis with real clocks using openSTA
+ - Routing and design rule check (DRC)
+ - PnR interactive flow tutorial
+
 # 4. Acknowledgement
+
+The above work was carried out as a part of the 5-day workshop on Advanced Physical Design organised by VLSI System Design. I am greatly indebted to Kunal Ghosh (course instructor), Timothy Edwards (Guest Instructor), Mohammed Shalan (Guest Instructor), Nickson Jose, efabless and the entire VSD Team for this great learning experience and immense guidance provided throughout the workshop.
 
 # 5. Bibliography
