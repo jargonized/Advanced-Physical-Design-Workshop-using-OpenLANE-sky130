@@ -1,6 +1,6 @@
 # Advanced Physical Design Workshop using OpenLANE sky130
 
-![Workshop Banner](/docs/workshop_banner.png)
+![Workshop Banner](/docs/poster.png)
 
 # About
 
