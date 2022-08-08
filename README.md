@@ -17,3 +17,41 @@ Workshop sponsored by: efabless
 3. [Summary](#3-summary)
 4. [Acknowledgement](#4-acknowledgement)
 5. [Bibliography](#5-bibliography)
+
+# 1. Introduction
+
+# 2. Design Preparation Step
+
+| ![files](docs/11.png) | 
+|:--:| 
+| Files used throughout the course|
+
+| ![files](docs/12.png) | 
+|:--:| 
+| Files used throughout the course|
+
+| ![files](docs/13.png) | 
+|:--:| 
+| Files used throughout the course|
+
+| ![files](docs/14.png) | 
+|:--:| 
+| Files used throughout the course|
+
+| ![files](docs/15.png) | 
+|:--:| 
+| Files used throughout the course|
+
+| ![files](docs/16.png) | 
+|:--:| 
+| Files used throughout the course|
+
+| ![files](docs/17.png) | 
+|:--:| 
+| Files used throughout the course|
+
+# 3. Summary
+
+# 4. Acknowledgement
+
+# 5. Bibliography
