@@ -9,3 +9,11 @@ A cloud based 5 day training workshop which offered insights into design and cha
 Workshop conducted by VLSI System Design : [VSD website](https://www.vlsisystemdesign.com/)
 
 Workshop sponsored by: efabless
+
+# Outline
+
+1. [Introduction](#1-introduction)
+2. [Design Preparation Step](#2-Design Preparation Step) 
+3. [Summary](#3-summary)
+4. [Acknowledgement](#4-acknowledgement)
+5. [Bibliography](#5-bibliography)
