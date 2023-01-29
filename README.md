@@ -117,87 +117,87 @@ Workshop conducted by VLSI System Design : [VSD website](https://www.vlsisystemd
 
 | ![files](labs/day2_1.png) | 
 |:--:| 
-|Fig 23. |
+|Fig 23. ASIC flow step-specific configuration files - default variable values assignment|
 
 | ![files](labs/day2_2.png) | 
 |:--:| 
-| Files used throughout the course|
+|Fig 24. Variable with descriptions and possible values|
 
 | ![files](labs/day2_3.png) | 
 |:--:| 
-| Files used throughout the course|
+|Fig 25. floorplan.tcl|
 
 | ![files](labs/day2_4.png) | 
 |:--:| 
-| Files used throughout the course|
+|Fig 26. Command to run floorplan|
 
 | ![files](labs/day2_5.png) | 
 |:--:| 
-| Files used throughout the course|
+|Fig 27. Successful completion of floorplan with the generation of PDN def|
 
 | ![files](labs/day2_6.png) | 
 |:--:| 
-| Files used throughout the course|
+|Fig 28. Floorplan log files|
 
 | ![files](labs/day2_7.png) | 
 |:--:| 
-| Files used throughout the course|
+|Fig 29. ioPlacer.log|
 
 | ![files](labs/day2_8.png) | 
 |:--:| 
-| Files used throughout the course|
+|Fig 30. Floorplan and PDN results|
 
 | ![files](labs/day2_9.png) | 
 |:--:| 
-| Files used throughout the course|
+|Fig 31. Path to access floorplan def file|
 
 | ![files](labs/day2_10.png) | 
 |:--:| 
-| Files used throughout the course|
+|Fig 32. Contents of floorplan.def file|
 
 | ![files](labs/day2_11.png) | 
 |:--:| 
-| Files used throughout the course|
+|Fig 33. Procedure to open the def file using magic - for visualisation|
 
 | ![files](labs/day2_12.png) | 
 |:--:| 
-| Files used throughout the course|
+|Fig 34. layout zoomed to show equidistant IO pins|
 
 | ![files](labs/day2_13.png) | 
 |:--:| 
-| Files used throughout the course|
+|Fig 35. Selection of a horizontal IO pin|
 
 | ![files](labs/day2_14.png) | 
 |:--:| 
-| Files used throughout the course|
+|Fig 36. Viewing the metal layer|
 
 | ![files](labs/day2_15.png) | 
 |:--:| 
-| Files used throughout the course|
+|Fig 37. Selection of a vertical IO pin|
 
 | ![files](labs/day2_16.png) | 
 |:--:| 
-| Files used throughout the course|
+|Fig 38. Viewing the metal layer|
 
 | ![files](labs/day2_17.png) | 
 |:--:| 
-| Files used throughout the course|
+|Fig 39. Presence of tap and decap cells|
 
 | ![files](labs/day2_18.png) | 
 |:--:| 
-| Files used throughout the course|
+|Fig 40. Unplaced logic cells|
 
 | ![files](labs/day2_19.png) | 
 |:--:| 
-| Files used throughout the course|
+|Fig 41. Verifying the logic cells|
 
 | ![files](labs/day2_20.png) | 
 |:--:| 
-| Files used throughout the course|
+|Fig 42. Verifying the logic cells - contd.|
 
 | ![files](labs/day2_21.png) | 
 |:--:| 
-| Files used throughout the course|
+|Fig 43. Floorplan variable values that were used in the flow|
 
 # 4. Day 3 - Design Library cells using magic layout and ngspice characterisation
 
