@@ -336,142 +336,142 @@ Workshop conducted by VLSI System Design : [VSD website](https://www.vlsisystemd
 
 | ![files](labs/day4_1.png) | 
 |:--:| 
-| Fig.|
+| Fig. 76 Track details with width, height and pitch values|
 
 | ![files](labs/day4_2.png) | 
 |:--:| 
-| Fig.|
+| Fig. 77 Command to draw the grids|
 
 | ![files](labs/day4_3.png) | 
 |:--:| 
-| Fig.|
+| Fig. 78 Verifying the grid rules|
 
 | ![files](labs/day4_4.png) | 
 |:--:| 
-| Fig.|
+| Fig. 79 Generation of LEF (Library Exchange Format) file|
 
 | ![files](labs/day4_5.png) | 
 |:--:| 
-| Fig.|
+| Fig. 80 Successful generation of LEF file|
 
 | ![files](labs/day4_6.png) | 
 |:--:| 
-| Fig.|
+| Fig. 81 Contents of LEF file |
 
 | ![files](labs/day4_7.png) | 
 |:--:| 
-| Fig.|
+| Fig. 82 Copying required files to src folder|
 
 | ![files](labs/day4_8.png) | 
 |:--:| 
-| Fig.|
+| Fig. 83 Copying - comtd.|
 
 | ![files](labs/day4_9.png) | 
 |:--:| 
-| Fig.|
+| Fig. 84 Modification of config.tcl to include the .lib and custom .lef file|
 
 | ![files](labs/day4_10.png) | 
 |:--:| 
-| Fig.|
+| Fig. 85 Design Prep and Synthesis|
 
 | ![files](labs/day4_11.png) | 
 |:--:| 
-| Fig.|
+| Fig. 86 Area of the chip with default SYNTH_* variables|
 
 | ![files](labs/day4_12.png) | 
 |:--:| 
-| Fig.|
+| Fig. 87 Increase in area and zero slack after modifying SYNTH_STRATEGY and SYNTH_SIZING|
 
 | ![files](labs/day4_13.png) | 
 |:--:| 
-| Fig.|
+| Fig. 88 Presence of custom inverter cell in merged.lef|
 
 | ![files](labs/day4_14.png) | 
 |:--:| 
-| Fig.|
+| Fig. 89 Successful floorplan|
 
 | ![files](labs/day4_15.png) | 
 |:--:| 
-| Fig.|
+| Fig. 90 Module after floorplan - viewed using magic|
 
 | ![files](labs/day4_16.png) | 
 |:--:| 
-| Fig.|
+| Fig. 91 Presence of custom inverter cell in the layout|
 
 | ![files](labs/day4_17.png) | 
 |:--:| 
-| Fig.|
+| Fig. 92 Metal contacts satisfying rules|
 
 | ![files](labs/day4_18.png) | 
 |:--:| 
-| Fig.|
-
-| ![files](labs/day4_19.png) | 
-|:--:| 
-| Fig.|
+| Fig. 93 Moving my_base.sdc for STA|
 
 | ![files](labs/day4_20.png) | 
 |:--:| 
-| Fig.|
+| Fig. 94 Modified sta.conf file|
 
 | ![files](labs/day4_21.png) | 
 |:--:| 
-| Fig.|
+| Fig. 95 Invoking OpenSTA|
+
+| ![files](labs/day4_19.png) | 
+|:--:| 
+| Fig. 96 Slack using max and min lib files using OpenSTA|
 
 | ![files](labs/day4_22.png) | 
 |:--:| 
-| Fig.|
+| Fig. 97 Slack improvement after modifying SYNTH_MAX_FANOUT|
 
 | ![files](labs/day4_23.png) | 
 |:--:| 
-| Fig.|
+| Fig. 98 Successful Clock Tree Synthesis|
 
 | ![files](labs/day4_24.png) | 
 |:--:| 
-| Fig.|
+| Fig. 99 Inferring CTS variable values set by the flow|
 
 | ![files](labs/day4_25.png) | 
 |:--:| 
-| Fig.|
+| Fig. 100 Checking slack by using OpenROAD within Openlane|
 
 | ![files](labs/day4_26.png) | 
 |:--:| 
-| Fig.|
+| Fig. 101 Hold violation with min and max .lib files|
 
 | ![files](labs/day4_27.png) | 
 |:--:| 
-| Fig.|
+| Fig. 102 Setup violation with min and max .lib files|
 
 | ![files](labs/day4_28.png) | 
 |:--:| 
-| Fig.|
+| Fig. 103 No setup violation while using typical .lib file for timing analysis|
 
 | ![files](labs/day4_29.png) | 
 |:--:| 
-| Fig.|
+| Fig. 104 No hold violation while using typical .lib file for timing analysis|
 
 
 # 6. Day 5 - RTL2GDS using TritonRoute and OpenSTA
 
 | ![files](labs/day5_1.png) | 
 |:--:| 
-| Fig.|
+| Fig. 105 To run routing|
 
 | ![files](labs/day5_2.png) | 
 |:--:| 
-| Fig.|
+| Fig. 106 Successful routing|
 
 | ![files](labs/day5_3.png) | 
 |:--:| 
-| Fig.|
+| Fig. 107 Demonstration of starting from the optimised design files|
 
 | ![files](labs/day5_4.png) | 
 |:--:| 
-| Fig.|
+| Fig. 108 Successful RC extraction|
 
 | ![files](labs/day5_5.png) | 
 |:--:| 
-| Fig.|
+| Fig. 109 PDN layout|
 
 # 7. Summary
 
