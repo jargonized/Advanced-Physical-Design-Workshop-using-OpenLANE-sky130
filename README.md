@@ -13,14 +13,14 @@ Workshop sponsored by: efabless
 # Outline
 
 1. [Introduction](#1-introduction)
-2. [Day 1 - Inception of open-source EDA, OpenLANE and sky130 PDK](#2-Day-1-Inception-of-open--source-EDA,-OpenLANE-and-sky130-PDK) 
-3. [Day 2 - Good floorplan vs bad floorplan and Introduction to Library cells](#3-Day-2-Good floorplan-vs-bad-floorplan-and-Introduction-to-Library-cells)
-4. [Day 3](#4-Day-3)
-5. [Day 4](#5-Day-4)
-6. [Day 5](#6-Day-5)
-7. [Summary](#3-summary)
-8. [Acknowledgement](#4-acknowledgement)
-9. [Bibliography](#5-bibliography)
+2. [Day 1 - Inception of open-source EDA, OpenLANE and sky130 PDK](#2-day-1---inception-of-open-source-eda-openlane-and-sky130-pdk) 
+3. [Day 2 - Good floorplan vs bad floorplan and Introduction to Library cells](#3-day-2---good-floorplan-vs-bad-floorplan-and-introduction-to-library-cells)
+4. [Day 3 - Design Library cells using magic layout and ngspice characterisation](#4-day-3---design-library-cells-using-magic-layout-and-ngspice-characterisation)
+5. [Day 4 - Pre-layout timing analysis and importance of good clock tree](#5-day-4---pre-layout-timing-analysis-and-importance-of-good-clock-tree)
+6. [Day 5 - RTL2GDS using TritonRoute and OpenSTA](#6-day-5---rtl2gds-using-tritonroute-and-opensta)
+7. [Summary](#7-summary)
+8. [Acknowledgement](#8-acknowledgement)
+9. [Bibliography](#9-bibliography)
 
 # 1. Introduction
 
