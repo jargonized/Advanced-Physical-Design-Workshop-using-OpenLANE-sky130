@@ -98,7 +98,7 @@ Workshop sponsored by: efabless
 |:--:| 
 | Files used throughout the course|
 
-| ![files](labs/day1_19.png) | 
+| ![files](labs/day19.png) | 
 |:--:| 
 | Files used throughout the course|
 
