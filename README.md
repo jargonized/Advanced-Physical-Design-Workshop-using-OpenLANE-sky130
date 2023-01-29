@@ -30,7 +30,7 @@ Workshop conducted by VLSI System Design : [VSD website](https://www.vlsisystemd
 
 | ![files](labs/day1_2.png) | 
 |:--:| 
-|Fig 2. Directory structure inside openlane|
+|Fig 2. Directory structure inside pdks|
 
 | ![files](labs/day1_3.png) | 
 |:--:| 
@@ -38,39 +38,39 @@ Workshop conducted by VLSI System Design : [VSD website](https://www.vlsisystemd
 
 | ![files](labs/day1_4.png) | 
 |:--:| 
-|Fig 4. PDK files for different process corners contd.|
+|Fig 4. Technology files for various open-source tools|
 
 | ![files](labs/day1_5.png) | 
 |:--:| 
-|Fig 5. Technology files for various open-source tools|
+|Fig 5. Process specific files|
 
 | ![files](labs/day1_6.png) | 
 |:--:| 
-|Fig 6. Process specific files|
+|Fig 6. Process specific Design Exchange Format (def) files|
 
 | ![files](labs/day1_7.png) | 
 |:--:| 
-|Fig 7. Process specific Design Exchange Format (def) files|
+|Fig 7. Openlane directory structure |
 
 | ![files](labs/day1_8.png) | 
 |:--:| 
-|Fig 8. Openlane directory structure|
+|Fig 8. Design files that come with the tool |
 
 | ![files](labs/day1_9.png) | 
 |:--:| 
-|Fig 9. Design files that come with the tool|
+|Fig 9. config.tcl file - where all parameters are set - second highest priority |
 
 | ![files](labs/day1_10.png) | 
 |:--:| 
-|Fig 10. config.tcl file - where all parameters are set - second highest priority|
+|Fig 10. Contents of the file - design specific |
 
 | ![files](labs/day1_11.png) | 
 |:--:| 
-|Fig 11. Contents of the file - design specific|
+|Fig 11. Process Specific config.tcl file - highest priority for any design |
 
 | ![files](labs/day1_12.png) | 
 |:--:| 
-|Fig 12. Process Specific config.tcl file - highest priority for any design|
+|Fig 12. |
 
 | ![files](labs/day1_13.png) | 
 |:--:| 
