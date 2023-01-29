@@ -20,37 +20,77 @@ Workshop sponsored by: efabless
 
 # 1. Introduction
 
-# 2. Design Preparation Step
+# 2. Day 1
 
-| ![files](docs/11.png) | 
+| ![files](labs/day1_1.png) | 
 |:--:| 
-|Viewing the files present in various directories of the openlane and pdk folder|
+| Files used throughout the course|
 
-| ![files](docs/12.png) | 
+| ![files](labs/day1_2.png) | 
 |:--:| 
-| Invoking Openlane in Interactive Mode|
+| Files used throughout the course|
 
-| ![files](docs/13.png) | 
+| ![files](labs/day1_3.png) | 
 |:--:| 
-|Setting up the environment and initiating synthesis|
+| Files used throughout the course|
 
-| ![files](docs/14.png) | 
+| ![files](labs/day1_4.png) | 
 |:--:| 
-|Successful Synthesis|
+| Files used throughout the course|
 
-| ![files](docs/15.png) | 
+| ![files](labs/day1_1.png) | 
 |:--:| 
-|Viewing chip area|
+| Files used throughout the course|
 
-| ![files](docs/16.png) | 
+| ![files](labs/day1_1.png) | 
 |:--:| 
-|Viewing cell details and calculating flop ratio (0.095 for the given design)|
+| Files used throughout the course|
 
-| ![files](docs/17.png) | 
+| ![files](labs/day1_1.png) | 
 |:--:| 
-|Viewing cell details and calculating flop ratio 'after optimisation' (0.108 for the given design)|
+| Files used throughout the course|
 
-# 3. Summary
+| ![files](labs/day1_1.png) | 
+|:--:| 
+| Files used throughout the course|
+
+| ![files](labs/day1_1.png) | 
+|:--:| 
+| Files used throughout the course|
+
+| ![files](labs/day1_1.png) | 
+|:--:| 
+| Files used throughout the course|
+
+| ![files](labs/day1_1.png) | 
+|:--:| 
+| Files used throughout the course|
+
+| ![files](labs/day1_1.png) | 
+|:--:| 
+| Files used throughout the course|
+
+| ![files](labs/day1_1.png) | 
+|:--:| 
+| Files used throughout the course|
+
+| ![files](labs/day1_1.png) | 
+|:--:| 
+| Files used throughout the course|
+
+| ![files](labs/day1_1.png) | 
+|:--:| 
+| Files used throughout the course|
+
+# 3. Day 2
+
+# 4. Day 3
+
+# 5. Day 4
+
+# 6. Day 5
+
+# 7. Summary
 
 The outcomes of this workshop are as follows:
  - How to talk to computers
