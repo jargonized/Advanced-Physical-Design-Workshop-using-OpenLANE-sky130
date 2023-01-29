@@ -26,6 +26,8 @@ Workshop sponsored by: efabless
 |:--:| 
 | Files used throughout the course|
 
+![Day1_1](labs/day1_1.png "Initial setup")
+
 | ![files](labs/day1_2.png) | 
 |:--:| 
 | Files used throughout the course|
