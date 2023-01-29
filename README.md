@@ -70,54 +70,54 @@ Workshop conducted by VLSI System Design : [VSD website](https://www.vlsisystemd
 
 | ![files](labs/day1_12.png) | 
 |:--:| 
-|Fig 12. |
+|Fig 12. Invoking OpenLANE and preparing the design |
 
 | ![files](labs/day1_13.png) | 
 |:--:| 
-| Files used throughout the course|
+|Fig 13. Notification of successful design preparation|
 
 | ![files](labs/day1_14.png) | 
 |:--:| 
-| Files used throughout the course|
+|Fig 14. Creation of runs folder - result of design prep|
 
 | ![files](labs/day1_15.png) | 
 |:--:| 
-| Files used throughout the course|
+|Fig 15. Directory Structure of 'runs' and 'tmp'|
 
 | ![files](labs/day1_16.png) | 
 |:--:| 
-| Files used throughout the course|
+|Fig 16. config.tcl file used by OpenLANE flow|
 
 | ![files](labs/day1_17.png) | 
 |:--:| 
-| Files used throughout the course|
+|Fig 17. Successful synthesis|
 
 | ![files](labs/day1_18.png) | 
 |:--:| 
-| Files used throughout the course|
+|Fig 18. Overall statistics of cells used|
 
 | ![files](labs/day_19.png) | 
 |:--:| 
-| Files used throughout the course|
+|Fig 19. Number of D- Flip Flops used|
 
 | ![files](labs/day1_20.png) | 
 |:--:| 
-| Files used throughout the course|
+|Fig 20. Area used by the module|
 
 | ![files](labs/day1_21.png) | 
 |:--:| 
-| Files used throughout the course|
+|Fig 21. Path to access Synthesis reports|
 
 | ![files](labs/day1_22.png) | 
 |:--:| 
-| Files used throughout the course|
+|Fig 22. Stat report - shown for example|
 
 # 3. Day 2 - Good floorplan vs bad floorplan and Introduction to Library cells
 
 
 | ![files](labs/day2_1.png) | 
 |:--:| 
-| Files used throughout the course|
+|Fig 23. |
 
 | ![files](labs/day2_2.png) | 
 |:--:| 
