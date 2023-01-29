@@ -204,31 +204,31 @@ Workshop conducted by VLSI System Design : [VSD website](https://www.vlsisystemd
 
 | ![files](labs/day3_1.png) | 
 |:--:| 
-| Files used throughout the course|
+|Fig 44. Dynamic assignment of variables|
 
 | ![files](labs/day3_2.png) | 
 |:--:| 
-| Files used throughout the course|
+|Fig 45. Change in IO pin placement|
 
 | ![files](labs/day3_3.png) | 
 |:--:| 
-| Files used throughout the course|
+|Fig 46. Magic command to open above layout - for reference|
 
 | ![files](labs/day3_4.png) | 
 |:--:| 
-| Files used throughout the course|
+|Fig 47. Cloning of vsdstdcelldesign repository|
 
 | ![files](labs/day3_5.png) | 
 |:--:| 
-| Files used throughout the course|
+|Fig 48. Contents of vsdstdcelldesign repo|
 
 | ![files](labs/day3_6.png) | 
 |:--:| 
-| Files used throughout the course|
+|Fig 49. Layout of inverter|
 
 | ![files](labs/day3_7.png) | 
 |:--:| 
-| Files used throughout the course|
+|Fig 50. Viewing the inference of the tool based on the layers used|
 
 | ![files](labs/day3_8.png) | 
 |:--:| 
