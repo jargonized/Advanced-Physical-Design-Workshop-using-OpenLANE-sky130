@@ -8,8 +8,6 @@ A cloud based 5 day training workshop which offered insights into design and cha
 
 Workshop conducted by VLSI System Design : [VSD website](https://www.vlsisystemdesign.com/)
 
-Workshop sponsored by: efabless
-
 # Outline
 
 1. [Introduction](#1-introduction)
@@ -28,51 +26,51 @@ Workshop sponsored by: efabless
 
 | ![files](labs/day1_1.png) | 
 |:--:| 
-| Files used throughout the course|
+|Fig 1. Path to enter the working directory|
 
 | ![files](labs/day1_2.png) | 
 |:--:| 
-| Files used throughout the course|
+|Fig 2. Directory structure inside openlane|
 
 | ![files](labs/day1_3.png) | 
 |:--:| 
-| Files used throughout the course|
+|Fig 3. PDK(Process Design Kit) files for different process corners |
 
 | ![files](labs/day1_4.png) | 
 |:--:| 
-| Files used throughout the course|
+|Fig 4. PDK files for different process corners contd.|
 
 | ![files](labs/day1_5.png) | 
 |:--:| 
-| Files used throughout the course|
+|Fig 5. Technology files for various open-source tools|
 
 | ![files](labs/day1_6.png) | 
 |:--:| 
-| Files used throughout the course|
+|Fig 6. Process specific files|
 
 | ![files](labs/day1_7.png) | 
 |:--:| 
-| Files used throughout the course|
+|Fig 7. Process specific Design Exchange Format (def) files|
 
 | ![files](labs/day1_8.png) | 
 |:--:| 
-| Files used throughout the course|
+|Fig 8. Openlane directory structure|
 
 | ![files](labs/day1_9.png) | 
 |:--:| 
-| Files used throughout the course|
+|Fig 9. Design files that come with the tool|
 
 | ![files](labs/day1_10.png) | 
 |:--:| 
-| Files used throughout the course|
+|Fig 10. config.tcl file - where all parameters are set - second highest priority|
 
 | ![files](labs/day1_11.png) | 
 |:--:| 
-| Files used throughout the course|
+|Fig 11. Contents of the file - design specific|
 
 | ![files](labs/day1_12.png) | 
 |:--:| 
-| Files used throughout the course|
+|Fig 12. Process Specific config.tcl file - highest priority for any design|
 
 | ![files](labs/day1_13.png) | 
 |:--:| 
