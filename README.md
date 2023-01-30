@@ -24,7 +24,7 @@ Revision notes: Only lab screenshots uploaded.
 
 # 1. Introduction
 
-OpenLane is an open-source VLSI flow built around open-source tools. 
+The housing that integrated circuits (chips) are placed in. The package is then either plugged into (socket mount) or soldered onto (surface mount) the printed circuit board. Creating a mounting for a chip might seem trivial, but chip packaging is a complicated industry. Being able to provide more interconnections to a bare chip (bare die) that is increasingly shrinking in size is an ever-present problem. In addition, smaller package sizes allow more chips to be placed inside phones and other handheld devices. 
 
 # 2. Day 1 - Inception of open-source EDA, OpenLANE and sky130 PDK
 
