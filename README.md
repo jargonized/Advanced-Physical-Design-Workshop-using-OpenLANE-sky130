@@ -477,27 +477,27 @@ Revision notes: Only lab screenshots uploaded.
 
 | ![files](labs/day5_6.png) | 
 |:--:| 
-| Fig. 109 PDN layout|
+| Fig. 110 Steps to run final command - run_magic - to generate GDSII file|
 
 | ![files](labs/day5_7.png) | 
 |:--:| 
-| Fig. 109 PDN layout|
+| Fig. 111 Successful completion of the OpenLANE flow|
 
 | ![files](labs/day5_8.png) | 
 |:--:| 
-| Fig. 109 PDN layout|
+| Fig. 112 Directory to find the streamed GDS file|
 
 | ![files](labs/day5_9.png) | 
 |:--:| 
-| Fig. 109 PDN layout|
+| Fig. 113 Command to view GDS file using magic|
 
 | ![files](labs/day5_10.png) | 
 |:--:| 
-| Fig. 109 PDN layout|
+| Fig. 114 GDS file opened using magic|
 
 | ![files](labs/day5_11.png) | 
 |:--:| 
-| Fig. 109 PDN layout|
+| Fig. 115 Final GDS output|
 
 # 7. Summary
 
