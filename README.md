@@ -20,6 +20,8 @@ Workshop conducted by VLSI System Design : [VSD website](https://www.vlsisystemd
 8. [Acknowledgement](#8-acknowledgement)
 9. [Bibliography](#9-bibliography)
 
+Revision notes: Only lab screenshots uploaded.
+
 # 1. Introduction
 
 # 2. Day 1 - Inception of open-source EDA, OpenLANE and sky130 PDK
@@ -473,6 +475,30 @@ Workshop conducted by VLSI System Design : [VSD website](https://www.vlsisystemd
 |:--:| 
 | Fig. 109 PDN layout|
 
+| ![files](labs/day5_6.png) | 
+|:--:| 
+| Fig. 109 PDN layout|
+
+| ![files](labs/day5_7.png) | 
+|:--:| 
+| Fig. 109 PDN layout|
+
+| ![files](labs/day5_8.png) | 
+|:--:| 
+| Fig. 109 PDN layout|
+
+| ![files](labs/day5_9.png) | 
+|:--:| 
+| Fig. 109 PDN layout|
+
+| ![files](labs/day5_10.png) | 
+|:--:| 
+| Fig. 109 PDN layout|
+
+| ![files](labs/day5_11.png) | 
+|:--:| 
+| Fig. 109 PDN layout|
+
 # 7. Summary
 
 The outcomes of this workshop are as follows:
@@ -496,9 +522,9 @@ The outcomes of this workshop are as follows:
 
 # 8. Acknowledgement
 
-The above work was carried out as a part of the 5-day workshop on Advanced Physical Design organised by VLSI System Design. I am greatly indebted to Kunal Ghosh (course instructor), Timothy Edwards (Guest Instructor), Mohammed Shalan (Guest Instructor), Nickson Jose, efabless and the entire VSD Team for this great learning experience and immense guidance provided throughout the workshop.
+The above work was carried out as a part of the 5-day workshop on Advanced Physical Design organised by VLSI System Design. I am greatly indebted to Kunal Ghosh (course instructor), Timothy Edwards (Guest Instructor), Mohammed Shalan (Guest Instructor), Nickson Jose (Lab Instructor), Sumanto Kar, efabless and the entire VSD Team for this great learning experience and immense guidance provided throughout the workshop.
 
 # 9. Bibliography
 
 
-Revision notes: Only lab screenshots uploaded.
+
