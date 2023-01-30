@@ -503,6 +503,8 @@ The housing that integrated circuits (chips) are placed in. The package is then 
 
 # 7. Summary
 
+[Workshop Notes - explaining all theory](docs/VSD_Physical_Design.pdf)
+
 The outcomes of this workshop are as follows:
  - How to talk to computers
  - SoC design and OpenLANE
