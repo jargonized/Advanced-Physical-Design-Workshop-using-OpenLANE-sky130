@@ -528,5 +528,13 @@ The above work was carried out as a part of the 5-day workshop on Advanced Physi
 
 # 9. Bibliography
 
+https://skywater-pdk.readthedocs.io/en/main/
+
+https://openlane.readthedocs.io/en/latest/
+
+https://github.com/The-OpenROAD-Project/OpenLane
+
+https://github.com/nickson-jose/vsdstdcelldesign
+
 
 
